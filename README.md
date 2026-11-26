@@ -42,4 +42,4 @@ number-guessing-csharp/
 
 ## Licencia
 
-Distribuido bajo la licencia MIT. Consulta el archivo `LICENSE` para más información.
+[Distribuido bajo la licencia MIT. Consulta el archivo `LICENSE` para más información.] (https://roadmap.sh/projects/number-guessing-game)
